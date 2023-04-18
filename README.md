@@ -2,6 +2,8 @@
 
 This is a simple password generator program written in JavaScript. It allows you to generate random passwords with a length of your choice, using a combination of uppercase and lowercase letters, numbers, and special characters.
 
+## DEMO - https://codepen.io/Sanchous2018/pen/abRmdGB
+
 ### Features
 Generate passwords with a length between 8 and 128 characters.
 Choose which types of characters to include in the password (uppercase letters, lowercase letters, numbers, and special characters).
